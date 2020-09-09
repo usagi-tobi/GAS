@@ -6,3 +6,6 @@ https://support.google.com/accounts/answer/3466521?p=oauth_consent&visit_id=6373
 
 ## コードラボ：Apps Scriptの基礎
 https://developers.google.com/apps-script/quickstart/fundamentals-codelabs
+
+## 【図解】初めてのGoogleアナリティクス導入＆設定と使い方
+https://www.yamatofinancial.jp/learning/know-how/googleanlytics-setting-startup.html
